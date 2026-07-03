@@ -36,6 +36,4 @@ Website hướng tới việc cung cấp giải pháp mua sắm trực tuyến t
 
 ### 🏃‍♂️ Các bước triển khai chi tiết (Installation Guide)
 
-#### Bước 1: Tải mã nguồn về máy (Clone Repository)
-Mở terminal hoặc Git Bash tại thư mục bạn muốn lưu dự án và chạy lệnh sau để tải mã nguồn:
-```bash
+
