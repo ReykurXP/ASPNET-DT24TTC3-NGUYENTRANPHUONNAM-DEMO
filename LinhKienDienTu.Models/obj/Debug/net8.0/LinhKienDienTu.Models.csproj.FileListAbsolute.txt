@@ -1,0 +1,11 @@
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\bin\Debug\net8.0\LinhKienDienTu.Models.deps.json
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\bin\Debug\net8.0\LinhKienDienTu.Models.dll
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\bin\Debug\net8.0\LinhKienDienTu.Models.pdb
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\LinhKienDienTu.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\LinhKienDienTu.Models.AssemblyInfoInputs.cache
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\LinhKienDienTu.Models.AssemblyInfo.cs
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\LinhKienDienTu.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\LinhKienDienTu.Models.dll
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\refint\LinhKienDienTu.Models.dll
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\LinhKienDienTu.Models.pdb
+C:\Users\Lay\Downloads\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\LinhKienDienTu.Models\obj\Debug\net8.0\ref\LinhKienDienTu.Models.dll

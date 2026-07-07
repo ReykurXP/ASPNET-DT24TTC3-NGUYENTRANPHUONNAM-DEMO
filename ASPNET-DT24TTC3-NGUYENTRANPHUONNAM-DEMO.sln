@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinhKienDienTu.Web", "LinhKienDienTu.Web\LinhKienDienTu.Web.csproj", "{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinhKienDienTu.Models", "LinhKienDienTu.Models\LinhKienDienTu.Models.csproj", "{E1245E16-A9CD-4C4A-8554-831F7A09A888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1245E16-A9CD-4C4A-8554-831F7A09A888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1245E16-A9CD-4C4A-8554-831F7A09A888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1245E16-A9CD-4C4A-8554-831F7A09A888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1245E16-A9CD-4C4A-8554-831F7A09A888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851B32E1-112B-430A-B787-E514CBD08E5F}
+	EndGlobalSection
+EndGlobal
