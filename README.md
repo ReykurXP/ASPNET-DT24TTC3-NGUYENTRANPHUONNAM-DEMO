@@ -37,15 +37,15 @@ Website hướng tới việc cung cấp giải pháp mua sắm trực tuyến t
 ### 🏃‍♂️ Các bước triển khai thực tế (Installation & Setup)
 
 #### Tuần 1: Khởi tạo và Chuẩn bị
-- Đã cấu hình và hoàn thiện tài liệu hướng dẫn sơ bộ tại `README.md`[cite: 1].
-- Đã mời giảng viên hướng dẫn tham gia quản trị dự án với tư cách Collaborator[cite: 1].
+- Đã cấu hình và hoàn thiện tài liệu hướng dẫn sơ bộ tại `README.md`.
+- Đã mời giảng viên hướng dẫn tham gia quản trị dự án với tư cách Collaborator.
 
 #### Tuần 2: Khởi tạo cấu trúc mã nguồn đồ án
 Hệ thống được tổ chức theo cấu trúc 3 lớp (3-Layer Architecture) tiêu chuẩn để quản lý mã nguồn chuyên nghiệp, tách biệt giữa giao diện và cơ sở dữ liệu:
-1. **Khởi tạo Blank Solution:** Đặt tên Solution đồng bộ theo cú pháp quy định: `ASPNET-da21tta-nguyenngocduyen-DEMO`[cite: 1].
-2. **Tạo tầng Hiển thị (LinhKienDienTu.Web):** Sử dụng template *ASP.NET Core Web App (Model-View-Controller)* trên nền tảng `.NET 8.0` để quản lý giao diện bán hàng và admin dashboard[cite: 1].
-3. **Tạo tầng Dữ liệu (LinhKienDienTu.DataAccess):** Sử dụng *Class Library* để quản lý cấu trúc các bảng dữ liệu (Entities) và ngữ cảnh kết nối cơ sở dữ liệu[cite: 1].
+1. **Khởi tạo Blank Solution:** Đặt tên Solution đồng bộ theo cú pháp quy định: `ASPNET-da21tta-nguyenngocduyen-DEMO`.
+2. **Tạo tầng Hiển thị (LinhKienDienTu.Web):** Sử dụng template *ASP.NET Core Web App (Model-View-Controller)* trên nền tảng `.NET 8.0` để quản lý giao diện bán hàng và admin dashboard.
+3. **Tạo tầng Dữ liệu (LinhKienDienTu.DataAccess):** Sử dụng *Class Library* để quản lý cấu trúc các bảng dữ liệu (Entities) và ngữ cảnh kết nối cơ sở dữ liệu.
 4. **Tạo tầng Thực thể & Nghiệp vụ (LinhKienDienTu.Models):** Sử dụng *Class Library* độc lập nhằm chứa các đối tượng dữ liệu chung chuyển giữa các lớp.
 
-*(Các bước cấu hình Chuỗi kết nối Database SQL Server và chạy lệnh `Update-Database` thông qua Entity Framework Core sẽ tiếp tục được hiện thực hóa và cập nhật ở tuần tiếp theo)*[cite: 1].
+*(Các bước cấu hình Chuỗi kết nối Database SQL Server và chạy lệnh `Update-Database` thông qua Entity Framework Core sẽ tiếp tục được hiện thực hóa và cập nhật ở tuần tiếp theo)*.
 
