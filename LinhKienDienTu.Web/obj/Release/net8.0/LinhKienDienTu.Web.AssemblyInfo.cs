@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinhKienDienTu.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b8dc6986cfdaf2f6dec4f36bc4c4338cd3f9cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinhKienDienTu.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinhKienDienTu.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

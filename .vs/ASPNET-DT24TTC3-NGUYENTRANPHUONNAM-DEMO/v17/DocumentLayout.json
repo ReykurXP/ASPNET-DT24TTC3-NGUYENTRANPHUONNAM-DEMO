@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lay\\Downloads\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\\",
+  "WorkspaceRootPath": "C:\\Users\\Lay\\Downloads\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}|LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj|c:\\users\\lay\\downloads\\aspnet-dt24ttc3-nguyentranphuonnam-demo\\linhkiendientu.web\\linhkiendientu.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}|LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj|c:\\users\\lay\\downloads\\aspnet-dt24ttc3-nguyentranphuonnam\\aspnet-dt24ttc3-nguyentranphuonnam-demo\\linhkiendientu.web\\linhkiendientu.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2E4DCB0-6402-4EC2-84C5-5BD4DF93B815}|LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj|solutionrelative:linhkiendientu.web\\linhkiendientu.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -23,10 +23,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinhKienDienTu.Web",
-              "DocumentMoniker": "C:\\Users\\Lay\\Downloads\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\\LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj",
+              "Title": "LinhKienDienTu.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Lay\\Downloads\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\\LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj",
               "RelativeDocumentMoniker": "LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj",
-              "ToolTip": "C:\\Users\\Lay\\Downloads\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\\LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj",
+              "ToolTip": "C:\\Users\\Lay\\Downloads\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM\\ASPNET-DT24TTC3-NGUYENTRANPHUONNAM-DEMO\\LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj",
               "RelativeToolTip": "LinhKienDienTu.Web\\LinhKienDienTu.Web.csproj",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
